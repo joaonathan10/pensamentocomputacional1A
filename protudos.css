@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>Produtos - Guerra da Lagosta</title>
+        <link rel="stylesheet" href="produtos.css">
+    </head>
+    <body>
+        <header>
+            <h1><img src="guerra.png"></h1>
+
+            <ul>
+                <li><a href="index.html"Home</a></li>
+                <li><a href="Produtos.html">produtos</a></li>
+                <li><a href="contato.html">Contato</a></li>
+            </ul>
+        </header>
+    </body>
+</html>
